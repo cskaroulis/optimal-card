@@ -1,2 +1,2 @@
 # optimal-card
-practice HTNL &amp; CSS
+practice HTML &amp; CSS
